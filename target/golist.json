@@ -1,0 +1,1 @@
+{"version":"v1","main":"github.com/codeedu/codebank","packages":[{"package":"github.com/lib/pq","version":"1.10.6","deps":[{"package":"github.com/lib/pq/oid@github.com/lib/pq","version":"1.10.6"},{"package":"github.com/lib/pq/scram@github.com/lib/pq","version":"1.10.6"}]},{"package":"github.com/satori/go.uuid","version":"1.2.0"}]}
